@@ -1,0 +1,17 @@
+{
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "d3-dsv": "^3.0.1",
+    "express": "^4.18.1",
+    "turf": "^3.0.14"
+  },
+  "script": {
+    "start": "nodemon app.js"
+  },
+  "author": "Roger Chen",
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
